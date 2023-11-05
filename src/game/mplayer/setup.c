@@ -3190,6 +3190,22 @@ struct menuitem g_MpSimulantsMenuItems[] = {
 		menuhandlerMpSimulantSlot,
 	},
 	{
+		MENUITEMTYPE_SELECTABLE,
+		8,
+		0,
+		L_MPMENU_092, // "9:"
+		(uintptr_t)&mpMenuTextSimulantName,
+		menuhandlerMpSimulantSlot,
+	},
+	{
+		MENUITEMTYPE_SELECTABLE,
+		9,
+		0,
+		L_MPMENU_092, // "10:"
+		(uintptr_t)&mpMenuTextSimulantName,
+		menuhandlerMpSimulantSlot,
+	},
+	{
 		MENUITEMTYPE_SEPARATOR,
 		0,
 		0,

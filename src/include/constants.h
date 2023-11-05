@@ -14,7 +14,7 @@
 #define true  1
 
 #define MAX_ARTIFACTS          120
-#define MAX_BOTS               8
+#define MAX_BOTS               10
 #define MAX_CHRSPERSQUADRON    16
 #define MAX_CHRSPERTEAM        32
 #define MAX_CHRWAYPOINTS       6
